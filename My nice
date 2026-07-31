@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html lang="en"> 
+<html lang="en">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>My Queen's Day</title>
+
 
 <style>
 :root{
@@ -126,7 +125,7 @@ header{
 #happybirth {
   /* 🎯 INSERT YOUR BACKGROUND IMAGE HERE */
   background: linear-gradient(rgba(255, 192, 203, 0.3), rgba(255, 182, 193, 0.4)), 
-              url('WhatsApp Image 2025-12-20 at 22.33.58.jpg') center/cover no-repeat;
+              url('WhatsApp Image 2026-07-31 at 23.38.33 (2).jpeg') center/cover no-repeat;
   /* Example: url('birthday-bg.jpg') */
   /* Or use one of your existing images like: url('IMG-20251117-WA0039.jpg') */
   min-height: 100vh;
@@ -160,7 +159,7 @@ header{
   animation:pulseGlow 2.5s infinite;
   overflow:hidden;
   /* 🎯 ADD YOUR CENTER IMAGE/CANDLE HERE */
-  background-image: url('WhatsApp Image 2025-12-21 at 00.43.28.jpg.jpg');
+  background-image: url('WhatsApp Image 2026-07-31 at 23.38.34 (1).jpeg');
   background-size: cover;
   background-position: center;
   box-shadow: 0 0 20px rgba(255,179,217,0.8);
@@ -234,7 +233,7 @@ header{
 }
 .popup-content{
   background: linear-gradient(rgba(214, 51, 132, 0.85), rgba(255, 105, 180, 0.85)),
-              url('WhatsApp Image 2025-12-20 at 22.34.01.jpg') center/cover no-repeat;
+              url('WhatsApp Image 2026-07-31 at 23.38.33 (4).jpeg') center/cover no-repeat;
   color: white;
   text-align:center;
   padding:30px;
@@ -309,10 +308,10 @@ footer{
   <div class="gallery-outer">
     <div class="gallery">
       <div class="image-box">
-        <video src="gallery-video.mp4" controls playsinline poster="IMG-20251117-WA0039.jpg"></video>
+        <video src="WhatsApp Video 2026-07-31 at 23.37.41.mp4" controls playsinline poster="WhatsApp Video 2026-07-31 at 23.37.41.mp4"></video>
       </div>
-      <div class="image-box"><img src="IMG-20251117-WA0037.jpg"></div>
-      <div class="image-box"><img src="IMG-20251117-WA0036.jpg"></div>
+      <div class="image-box"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (4).jpeg"></div>
+      <div class="image-box"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (1).jpeg"></div>
     </div>
   </div>
 </div>
@@ -321,9 +320,9 @@ footer{
 <section id="inspiration" class="section">
   <div class="card">
     <h2>Our Story 🌹</h2>
-    <p class="story-line">It started with me answering your psychology group question — 2024 — then vanishing without another word.</p>
+    <p class="story-line">It started with me answering your psychology group question 2024 then vanishing without another word.</p>
     <p class="story-line">Since then, 2026 happened to be: stealing your pens, sometimes your phone, filming you on culture night without ever saying why.</p>
-    <p class="story-line">Looking back now, I believe every one of those small moments was a sign — Allah was quietly writing us into each other's story.</p>
+    <p class="story-line">Looking back now, I believe every one of those small moments was a sign Allah was quietly writing us into each other's story.</p>
     <p class="story-line">Thank you for believing in me, and in us.</p>
     <p class="story-signoff">W I T H A L L M Y H E A R T</p>
     <p>Yours</p>
@@ -340,15 +339,6 @@ footer{
     <p>I love her more than words can explain, not just for how she looks, but for who she is: her kindness, her intelligence, her resilience, and the way she carries herself with grace.</p>
     <p>She is my queen. My heart claimed her first, and my mind stands beside it, knowing she is the one meant for me.</p>
 	<i>
-	<p><b>My love ❤️</b></p>
-	  <ul>
-	   Have you ever felt like no one else could truly understand you, but then you found that one person who just gets you?
-That's how I feel about you.
-       
-	   I'd give up forever just to hold you close because in those moments, it feels like I've found heaven on earth. Your presence is my sanctuary, and every second with you is a treasure.
-	   I don't need the world to see me; I only need you to know the real me. When everything else feels broken, you are my constant, my strength. In a world that often feels like it's falling apart, your love is the glue that holds me together.
-	   So, here's my heart laid bare for you. You are my my reason to believe in love. I just want you to know who I am, because loving you has made me who I am.
-	  
 	  <p><b>Why I Love You</b></p>
 	  <ul>
 	  I love you for so many reasons
@@ -398,12 +388,12 @@ There is love.
     </div>
     <div class="circle-ring">
       <!-- Each circle-item has an image + a word -->
-      <div class="circle-item"><img src="WhatsApp Image 2025-12-20 at 22.33.51.jpg"><span>Beautiful</span></div>
-      <div class="circle-item"><img src="WhatsApp Image 2025-12-20 at 22.33.59 (1).jpg"><span>Lovely</span></div>
-      <div class="circle-item"><img src="WhatsApp Image 2025-12-20 at 22.33.59.jpg"><span>Adorable</span></div>
-      <div class="circle-item"><img src="WhatsApp Image 2025-12-20 at 22.34.00 (2).jpg"><span>Sweet</span></div>
-      <div class="circle-item"><img src="WhatsApp Image 2025-12-20 at 22.34.01.jpg"><span>Queen</span></div>
-      <div class="circle-item"><img src="WhatsApp Image 2025-12-20 at 22.34.00 (1).jpg"><span>Angel</span></div>
+      <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.33.jpeg"><span>Beautiful</span></div>
+      <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (1).jpeg"><span>Lovely</span></div>
+      <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.34 (2).jpeg"><span>Adorable</span></div>
+      <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (3).jpeg"><span>Sweet</span></div>
+      <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.34 (1).jpeg"><span>Queen</span></div>
+      <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (5).jpeg"><span>Angel</span></div>
     </div>
   </div>
 </section>
