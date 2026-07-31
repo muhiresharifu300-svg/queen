@@ -309,7 +309,7 @@ footer{
   <div class="gallery-outer">
     <div class="gallery">
       <div class="image-box">
-        <video src="WhatsApp Video 2026-07-31 at 23.37.39.mp4" controls playsinline poster="WhatsApp Video 2026-07-31 at 23.37.39.mp4"></video>
+        <video src="WhatsApp Video 2026-07-31 at 23.37.39.mp4" controls playsinline poster="WhatsApp Video 2026-07-31 at 23.37.39.mp4"></video>   
       </div>
       <div class="image-box"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (4).jpeg"></div>
       <div class="image-box"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (1).jpeg"></div>
