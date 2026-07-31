@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -389,7 +388,7 @@ There is love.
     </div>
     <div class="circle-ring">
       <!-- Each circle-item has an image + a word -->
-      <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.33.jpeg"><span>Beautiful</span></div>
+      <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (4).jpeg"><span>Beautiful</span></div>
       <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (1).jpeg"><span>Lovely</span></div>
       <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.34 (2).jpeg"><span>Adorable</span></div>
       <div class="circle-item"><img src="WhatsApp Image 2026-07-31 at 23.38.33 (3).jpeg"><span>Sweet</span></div>
